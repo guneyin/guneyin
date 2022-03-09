@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @guneyin
-- 👀 I’m a retared Delphi developer and currently interested in Golang, Vue and Svelte..
+- 👀 I’m a Delphi developer and currently interested in Golang, Vue and Svelte..
 - 🌱 I’m currently learning new flavour of full-stack development
 - 💞️ I’m looking to collaborate on ...
 - 📫 guneyin@gmail.com
